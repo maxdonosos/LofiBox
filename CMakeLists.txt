@@ -49,9 +49,9 @@ else()
 endif()
 
 juce_add_plugin(LoFiBox
-    COMPANY_NAME                "LoFiBox Audio"
-    COMPANY_WEBSITE             "https://example.com"
-    BUNDLE_ID                   com.lofiboxaudio.lofibox
+    COMPANY_NAME                "SuperSerius"
+    COMPANY_WEBSITE             "https://github.com/maxdonosos/LofiBox"
+    BUNDLE_ID                   com.superserius.lofibox
     PLUGIN_MANUFACTURER_CODE    Lfbx
     PLUGIN_CODE                 LfB1
     PRODUCT_NAME                "Lo-Fi Box"

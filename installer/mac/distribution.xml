@@ -12,16 +12,16 @@
     </choices-outline>
 
     <choice id="vst3" title="VST3 plug-in" description="/Library/Audio/Plug-Ins/VST3">
-        <pkg-ref id="com.lofiboxaudio.lofibox.vst3"/>
+        <pkg-ref id="com.superserius.lofibox.vst3"/>
     </choice>
     <choice id="au" title="Audio Unit (Logic, GarageBand...)" description="/Library/Audio/Plug-Ins/Components">
-        <pkg-ref id="com.lofiboxaudio.lofibox.au"/>
+        <pkg-ref id="com.superserius.lofibox.au"/>
     </choice>
     <choice id="app" title="Standalone app" description="/Applications">
-        <pkg-ref id="com.lofiboxaudio.lofibox.app"/>
+        <pkg-ref id="com.superserius.lofibox.app"/>
     </choice>
 
-    <pkg-ref id="com.lofiboxaudio.lofibox.vst3" version="@VERSION@">vst3.pkg</pkg-ref>
-    <pkg-ref id="com.lofiboxaudio.lofibox.au"   version="@VERSION@">au.pkg</pkg-ref>
-    <pkg-ref id="com.lofiboxaudio.lofibox.app"  version="@VERSION@">app.pkg</pkg-ref>
+    <pkg-ref id="com.superserius.lofibox.vst3" version="@VERSION@">vst3.pkg</pkg-ref>
+    <pkg-ref id="com.superserius.lofibox.au"   version="@VERSION@">au.pkg</pkg-ref>
+    <pkg-ref id="com.superserius.lofibox.app"  version="@VERSION@">app.pkg</pkg-ref>
 </installer-gui-script>

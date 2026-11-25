@@ -16,7 +16,7 @@ set -euo pipefail
 ART="${1:?carpeta de artefactos}"
 VERSION="${2:-1.0.0}"
 NAME="Lo-Fi Box"
-BUNDLE_ID="com.lofiboxaudio.lofibox"
+BUNDLE_ID="com.superserius.lofibox"
 HERE="$(cd "$(dirname "$0")" && pwd)"
 OUT="$(pwd)/dist"
 WORK="$(mktemp -d)"

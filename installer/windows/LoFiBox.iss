@@ -13,7 +13,8 @@
 AppId={{6F2B1C7E-4E3A-4C55-9B0A-1F0B10F1B0C5}
 AppName=Lo-Fi Box
 AppVersion={#Version}
-AppPublisher=LoFiBox Audio
+AppPublisher=SuperSerius
+AppPublisherURL=https://github.com/maxdonosos/LofiBox
 DefaultDirName={autopf}\Lo-Fi Box
 DefaultGroupName=Lo-Fi Box
 OutputDir=..\..\dist
